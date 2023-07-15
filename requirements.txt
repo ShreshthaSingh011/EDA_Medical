@@ -8,3 +8,6 @@ seaborn
 Image
 LinearRegression
 matplotlib
+sklearn
+scipy
+scikit-learn
