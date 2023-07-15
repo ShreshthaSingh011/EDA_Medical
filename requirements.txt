@@ -1,9 +1,7 @@
 streamlit
 pandas
 numpy
-ydata-profiling
-streamlit-pandas-profiling
-plotly.express
+plotly
 seaborn
 Image
 LinearRegression
