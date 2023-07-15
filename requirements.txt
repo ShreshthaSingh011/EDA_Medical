@@ -5,7 +5,6 @@ ydata-profiling
 streamlit-pandas-profiling
 plotly.express
 seaborn
-PIL
 Image
 LinearRegression
 matplotlib
